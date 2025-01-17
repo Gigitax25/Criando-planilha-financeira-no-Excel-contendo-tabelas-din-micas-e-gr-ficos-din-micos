@@ -17,6 +17,10 @@ Projeto com o objetivo de gerar uma planilha financeira no Excel contendo tabela
  
 - https://github.com/Gigitax25/Criando-planilha-financeira-no-Excel-contendo-tabelas-din-micas-e-gr-ficos-din-micos/blob/main/Planilha%20financeira%20familiar.xlsx
 
+![imagem 01](https://github.com/user-attachments/assets/6d4cdc52-5396-436c-9c3d-f20b699cd9c9)
+
+
+
 
 
 ## 👨💻 Autora
