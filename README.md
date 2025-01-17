@@ -5,7 +5,10 @@ Projeto desenvolvido para o desafio "Como organizar sua vida Financeira com Plan
 
 
  > ** Este é o repositório desenvolvido para o desafio "Como organizar sua vida Financeira com Planilhas Inteligentes e IA" do "Bootcamp CAIXA - IA Generativa com Microsoft Copilot" da DIO sob mentoria de [Felipe Aguiar](https://github.com/felipeAguiarCode) 
+
 Projeto com o objetivo de gerar uma planilha financeira no Excel contendo tabelas dinâmicas e gráficos dinâmicos.
+
+
 ## 💻 Tecnologias utilizadas no projeto
 - Excel
 
