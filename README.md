@@ -26,7 +26,7 @@ Projeto com o objetivo de gerar uma planilha financeira no Excel contendo tabela
 
 
 
-## 👨💻 Autora
+## 👩💻 Autora
 
 <p>
     <img 
